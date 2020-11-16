@@ -1,6 +1,6 @@
 # React And Webpack from scratch to Production
 
-In this I will outlay the steps needed to create your react app from scratch using webpack. I won't explain everything in detail, however I'll try to give you an understanding of concepts seperately and how you may use them. These steps assume that you have Node setup and atleast some bare bone knowledge of React.
+In this I will layout the steps needed to create your react app from scratch using webpack. I won't explain everything in detail, however I'll try to give you an understanding of concepts seperately and how you may use them. These steps assume that you have Node setup and atleast some bare bone knowledge of React.
 
 ### We'll Focus on
 [React.Js](#reactjs)<br />
