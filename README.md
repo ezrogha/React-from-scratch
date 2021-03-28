@@ -2,6 +2,8 @@
 
 In this I will layout the steps needed to create your react app from scratch using webpack. I won't explain everything in detail, however I'll try to give you an understanding of concepts seperately and how you may use them. These steps assume that you have Node setup and atleast some bare bone knowledge of React.
 
+[Updated doc here](https://ezrogha.hashnode.dev/react-webpack5typescripttesting-setup-from-scratch-to-production-updated-2021)
+
 ### We'll Focus on
 [React.Js](#reactjs)<br />
 [WebPack](#webpack)<br />
